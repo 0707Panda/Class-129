@@ -1,0 +1,37 @@
+.heading{
+    width:100%;
+    margin-top: 0px;
+    font-size: 20px;
+}
+
+.span{
+    font-size: 15px;
+    color:black;
+}
+
+body{
+    background-size: cover;
+}
+
+.speed{
+    float: left;
+}
+
+.diskSpeed, .diskVolume{
+    width:200px;
+    border-radius: 170px;
+}
+
+#speedButton, #volumeButton, .play, .pause{
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.volume{
+    float: right;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
